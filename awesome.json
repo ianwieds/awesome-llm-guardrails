@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "LLM Guardrails",
+  "repo": "ianwieds/awesome-llm-guardrails",
+  "tagline": "Guardrail frameworks, prompt injection and jailbreak detectors, PII filters, safety classifiers and red-teaming tools for LLM apps.",
+  "scope": "It is about keeping LLM inputs and outputs safe and in policy, not general application security.",
+  "accent": "EF4444",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: chat messages travel a lane between red guardrails toward a model block, pass through a shield gate and come out checked, while a red warning message hits the shield and is thrown back."
 }
