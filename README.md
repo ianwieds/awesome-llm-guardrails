@@ -186,10 +186,10 @@ Guardrails are the checks that sit around a language model, screening what goes 
 - [Tensor Trust](https://tensortrust.ai) - Online game of prompt injection attacks and defenses whose data became a benchmark.
 - [The lethal trifecta](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/) - Essay on why private data, untrusted content and outbound access together are unsafe.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
