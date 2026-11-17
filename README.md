@@ -128,6 +128,7 @@ Guardrails are the checks that sit around a language model, screening what goes 
 - [Perspective API](https://perspectiveapi.com) - Jigsaw API that scores text for toxicity and related attributes.
 - [Prisma AIRS](https://www.paloaltonetworks.com/ai-security/prisma-airs) - Palo Alto Networks platform for runtime protection, model scanning and red teaming.
 - [Prompt Security](https://prompt.security) - Platform that inspects prompts and responses across employee AI tools and homegrown apps.
+- [Screwtape.ai](https://screwtape.ai) - Hosted check that returns allow, review or block before an AI agent pays a seller.
 - [Straiker](https://www.straiker.ai) - Service that detects prompt injection, tool misuse and runtime attacks on AI agents.
 
 ## Red teaming and scanners
